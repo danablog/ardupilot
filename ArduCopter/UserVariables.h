@@ -17,3 +17,4 @@ int                 WiiDisplacementY=0;
 #endif  // USERHOOK_VARIABLES
 
 // Test changes
+// More changes by danablog
